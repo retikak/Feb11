@@ -14,7 +14,7 @@ class TaskDetailTableViewController: UITableViewController {
     
     @IBOutlet weak var nameLabel: UITextField!
     @IBOutlet weak var notesLabel: UILabel!
-    @IBOutlet var dueDatePicker: UIDatePicker! //test1
+    @IBOutlet var dueDatePicker: UIDatePicker!
     
     
     @IBAction func saveButtonTapped(sender: AnyObject) {
